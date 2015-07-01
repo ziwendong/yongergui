@@ -8,11 +8,11 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "咏而归"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "浴乎沂，风乎舞雩"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -21,7 +21,7 @@ description: "»Feeling Responsive« is a responsive theme for Jekyll based on t
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://phlow.github.io/feeling-responsive"
+url: "http://ziwendong.github.io/website-test-2/"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
