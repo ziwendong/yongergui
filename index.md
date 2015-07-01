@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
+title: "咏而归 – 浴乎沂，风乎舞雩"
 header:
    image_fullwidth: "Chumphon sunrise.jpg"
 widget-1:
