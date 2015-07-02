@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline:  "Headers With Style"
-title:  "No Header"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows <em>no</em> header at all. Just the navigation."
+subheadline:  "清迈拾遗"
+title:  "Wat Chet Yot"
+teaser: "两个国王，一场战争"
 categories:
     - design
 tags:
