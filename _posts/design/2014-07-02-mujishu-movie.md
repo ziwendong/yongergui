@@ -11,7 +11,7 @@ tags:
     - header
 header: no
 image:
-    title: http://img3.douban.com/lpic/s3156454.jpg
+    title: mujishu.jpg
     caption: 豆瓣地址
     caption_url: http://movie.douban.com/subject/1306266/
 ---
