@@ -1,16 +1,28 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline:  "清迈拾遗"
 title:  "Wat Suan Dok"
 teaser: "圣洁的安息之地"
 categories:
-    - design
+    - travel
 tags:
-    - design
+    - 旅行
     - background color
     - header
 header: no
 ---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+***近期日志***
+
+{% include list-posts.html tag='header' %}
+
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 <img src="{{ site.url }}/images/wat-suan-dok/wat-suan-dok (4).jpg" alt="陵园一角和金色Chedi">
 
 `陵园一角和金色Chedi`

@@ -1,16 +1,31 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline:  "清迈拾遗"
 title:  "Wat Chet Yot"
 teaser: "两个国王，一场战争"
 categories:
-    - design
+    - travel
 tags:
-    - design
+    - 旅行
     - background color
     - header
 header: no
+
 ---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+***近期日志***
+
+{% include list-posts.html tag='header' %}
+
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
+
 在持续了两个月的高温后，清迈终于进入雨季，正午仍然炎热，但多云的天气多起来，户外活动也就不再那么难接受。这几天又骑车逛了一圈不太出名的寺院，虽然清迈寺庙主要集中在老城，但停留得久了，才发现老城外的一些寺院更有韵味。游客罕至的清幽是一方面，更多还是因为建筑与历史。只是中文游记中很少有人提到，英文介绍又太多太杂，以至起初意识不到，待到终于确信它们的独特，已是快离开的时候了。我想有同样问题的人应该不止是我，所以简单的记录一下吧，如果能对以后来旅行的朋友有帮助，也算是对这些美好存在的一点儿报偿。
 
 今天先讲一讲Wat Chet Yot
