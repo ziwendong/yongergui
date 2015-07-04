@@ -20,7 +20,7 @@ image:
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="show-for-large-up">
 <div class="panel radius" markdown="1">
-***近期日志***
+**近期日志**
 
 {% include list-posts.html tag='header' %}
 
