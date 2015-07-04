@@ -239,19 +239,19 @@ blockquote {
  
     blockquote:before {
         display:block;content:"\00BB";
-        font-size:80px;
+        font-size:50px;
         position:absolute;
-        left:-25px;
-        top:-40px;
+        left:-30px;
+        top:-30px;
         color:#4b4b4d
     }
     blockquote:after {
         display:block;
         content:"\00AB";
-        font-size:80px;
+        font-size:50px;
         position:absolute;
-        right:-10px;
-        bottom:-40px;
+        right:-30px;
+        bottom:-30px;
         color:#4b4b4d;
     }
     blockquote cite:before {
