@@ -4,7 +4,7 @@ subheadline:  "影评"
 title:  "木屐树"
 teaser: "永恒人性的诗意"
 categories:
-    - movie
+    - inward
 tags:
     - 电影
     - background color

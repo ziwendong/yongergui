@@ -4,7 +4,7 @@ subheadline:  "清迈拾遗"
 title:  "Wat Suan Dok"
 teaser: "圣洁的安息之地"
 categories:
-    - travel
+    - outward
 tags:
     - 旅行
     - background color

@@ -1,13 +1,13 @@
-- title: 首页
+- title: "首页"
   url: "/"
   side: left
 
-- title: Getting Started
+- title: "关于我"
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "抵·达"
+  url: "/outward/archive"
   side: left
   dropdown:
   - title: "Grid & Colors"
@@ -31,8 +31,8 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "沉·潜"
+  url: "/inward/archive"
   side: left
   dropdown:
   - title: "Header with Full-Width-Image"
@@ -50,7 +50,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: "秉·烛"
   url: "/documentation/"
   side: left
   dropdown:
