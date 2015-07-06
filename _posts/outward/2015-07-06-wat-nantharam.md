@@ -19,7 +19,8 @@ image:
   <p> Website: Nixdorf Internatsberatung &amp; Schulberatung</p>
   </a></li>
  </ul>
- <ul class="clearing-thumbs small-block-grid-3" data-clearing> 
+ <ul class="clearing-thumbs small-block-grid-4" data-clearing> 
+  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (10).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (10).jpg"></a></li>
   <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (3).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (3).jpg"></a></li>
   <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (9).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (9).jpg"></a></li>
   <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (5).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (5).jpg"></a></li>
@@ -28,8 +29,7 @@ image:
   <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (7).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (7).jpg"></a></li>
   <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (8).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (8).jpg"></a></li>
 </ul>
-<ul class="clearing-thumbs small-block-grid-3" data-clearing>  
-  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (10).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (10).jpg"></a></li>
+<ul class="clearing-thumbs small-block-grid-2" data-clearing>    
   <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (6).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (6).jpg"></a></li>
   <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (2).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (2).jpg"></a></li>
 </ul>
