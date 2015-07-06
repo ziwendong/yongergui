@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: "关于我"
-  url: "/getting-started/"
+- title: "博文目录"
+  url: "/blog/"
   side: left
 
 - title: "抵·达"
