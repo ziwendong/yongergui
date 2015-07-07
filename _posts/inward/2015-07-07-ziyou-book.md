@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "书评"
 title:  "自由之后"
-teaser: " 有关乔纳森·弗兰岑的《自由》"
+teaser: " 追求自我利益的最大实现是人的本能，它带给我们改变命运的能力，赋予我们创造力，但对自由空间的争夺也将我们与他人分隔甚至对立。即使能够预见到自己的行为可能带给他人痛苦，人们还是朝着认定的目标奔过去，不止为了接近梦想，也往往是为了更快的逃离负疚。 "
 categories:
     - inward
 tags:
@@ -10,7 +10,6 @@ tags:
 header: no
 image:
     thumb:  ziyou.jpg
-    homepage: ziyou.jpg
     caption: 豆瓣地址
     caption_url: http://book.douban.com/subject/10569619/
 ---

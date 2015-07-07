@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 subheadline:  "清迈拾遗"
-title:  "Wat Suan Dok"
-teaser: "圣洁的安息之地"
+title:  "Wat Suan Dok —— 圣洁的安息之地"
+teaser: "Wat Suan Dok很可能是离清迈老城最近的重要寺院了。从西门出来，只需沿着热闹的Suthep路走上大概一公里，就能很容易的找到它。但和地位相仿的素贴山双龙寺相比，这里虽然并非人迹罕至，却清静肃穆得多。"
 categories:
     - outward
 tags:

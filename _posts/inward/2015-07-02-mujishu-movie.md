@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline:  "影评"
-title:  "木屐树"
-teaser: "永恒人性的诗意"
+title:  "木屐树 —— 永恒人性的诗意"
+teaser: "年轻的时总觉得一个社会如果缺乏公正，没有给人足够的自由去探求更好的生活，就当然是糟糕的，可年纪大一些了才慢慢意识到，如果这个社会真的那么缺乏可取之处，它也不可能稳定维持。总会有一些微妙的细节，缓解着不可承受之重。"
 categories:
     - inward
 tags:
@@ -10,7 +10,6 @@ tags:
 header: no
 image:
     thumb:  mujishu.jpg
-    homepage: mujishu.jpg
     caption: 豆瓣地址
     caption_url: http://movie.douban.com/subject/1306266/
 ---

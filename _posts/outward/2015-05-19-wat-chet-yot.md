@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 subheadline:  "清迈拾遗"
-title:  "Wat Chet Yot"
-teaser: "两个国王，一场战争"
+title:  "Wat Chet Yot —— 两个国王，一场战争"
+teaser: "作为一座见证了五百多年风雨的古寺，Wat Chet Yot 像一位沉静宽厚的老人，把很多记忆深埋在心里，他并不主动讲述，只是把时间的力量展示给你看，等待你自己去领悟。"
 categories:
     - outward
 tags:
