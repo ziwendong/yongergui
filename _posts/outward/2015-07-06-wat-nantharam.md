@@ -16,7 +16,7 @@ image:
 
 <ul class="clearing-thumbs small-block-grid-1" data-clearing>
   <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (1).jpg"><img  data-caption="Mondop上精美的雕塑" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (1).jpg">
-  <p> Website: Nixdorf Internatsberatung &amp; Schulberatung</p>
+  <p> Mondop上精美的雕塑</p>
   </a></li>
  </ul>
  <ul class="clearing-thumbs small-block-grid-4" data-clearing> 
