@@ -7,6 +7,8 @@ categories:
     - outward
 tags:
     - 旅行
+    - 相册
+    - Chiangmai
 image:
    thumb: wat-nantharam/wat-nantharam-s.jpg
    homepage: wat-nantharam/wat-nantharam-l.jpg
@@ -37,9 +39,9 @@ image:
 
 
 
-## 更多相册
+## 清迈拾遗系列
 {: .t60 }
-{% include list-posts.html tag='旅行' %}
+{% include list-posts.html tag='Chiangmai' %}
 
 
 

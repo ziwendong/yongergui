@@ -7,8 +7,8 @@ categories:
     - outward
 tags:
     - 旅行
-    - background color
-    - header
+    - Chiangmai
+
 header: no
 image:
     thumb:  wat-suan-dok/wat-suan-dok-s.jpg
@@ -21,9 +21,9 @@ image:
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="show-for-large-up">
 <div class="panel radius" markdown="1">
-**近期日志**
+**清迈拾遗系列**
 
-{% include list-posts.html tag='header' %}
+{% include list-posts.html tag='Chiangmai' %}
 
 </div>
 </div>
