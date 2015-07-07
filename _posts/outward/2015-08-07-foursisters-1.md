@@ -61,25 +61,26 @@ image:
 
 
 
-<img src="{{ site.url }}/foursisters/foursisters (1).jpg" alt="映秀到卧龙的塌方路段">
+<img src="{{ site.url }}/images/foursisters/foursisters (1).jpg" alt="映秀到卧龙的塌方路段">
 
 ~~~
 映秀到卧龙的塌方路段
 ~~~
 
-<img src="{{ site.url }}/foursisters/foursisters (2).jpg" alt="巴郎山4480垭口路牌">
+<img src="{{ site.url }}/images/foursisters/foursisters (2).jpg" alt="巴郎山4480垭口路牌">
 
 ~~~
 巴郎山4480垭口路牌
 ~~~
 
-<img src="{{ site.url }}/foursisters/foursisters (3).jpg" alt="从垭口下降后，风雨也便止息了。已进入四姑娘山区域。">
+<img src="{{ site.url }}/images/foursisters/foursisters (23).jpg" alt="从垭口下降后，风雨也便止息了。已进入四姑娘山区域。">
+<img src="{{ site.url }}/images/foursisters/foursisters (3).jpg" alt="从垭口下降后，风雨也便止息了。已进入四姑娘山区域。">
 
 ~~~
 从垭口下降后，风雨也便止息了。已进入四姑娘山区域。
 ~~~
 
-<img src="{{ site.url }}/foursisters/foursisters (22).jpg" alt="抵达日隆镇，照片中可以看见双胞胎姐妹哦～">
+<img src="{{ site.url }}/images/foursisters/foursisters (22).jpg" alt="抵达日隆镇，照片中可以看见双胞胎姐妹哦～">
 
 ~~~
 抵达日隆镇，照片中可以看见双胞胎姐妹哦～
