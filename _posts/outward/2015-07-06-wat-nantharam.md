@@ -15,23 +15,23 @@ image:
 ---
 
 <ul class="clearing-thumbs small-block-grid-1" data-clearing>
-  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (1).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (1).jpg">
+  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (1).jpg"><img  data-caption="Mondop上精美的雕塑" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (1).jpg">
   <p> Website: Nixdorf Internatsberatung &amp; Schulberatung</p>
   </a></li>
  </ul>
  <ul class="clearing-thumbs small-block-grid-4" data-clearing> 
-  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (10).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (10).jpg"></a></li>
-  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (3).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (3).jpg"></a></li>
-  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (9).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (9).jpg"></a></li>
-  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (5).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (5).jpg"></a></li>
+  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (10).jpg"><img  data-caption=" " class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (10).jpg"></a></li>
+  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (3).jpg"><img  data-caption=" " class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (3).jpg"></a></li>
+  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (9).jpg"><img  data-caption=" " class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (9).jpg"></a></li>
+  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (5).jpg"><img  data-caption=" " class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (5).jpg"></a></li>
 </ul>
 <ul class="clearing-thumbs small-block-grid-2" data-clearing>  
-  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (7).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (7).jpg"></a></li>
-  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (8).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (8).jpg"></a></li>
+  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (7).jpg"><img  data-caption="Vihara全景" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (7).jpg"></a></li>
+  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (8).jpg"><img  data-caption="金色Chedi" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (8).jpg"></a></li>
 </ul>
 <ul class="clearing-thumbs small-block-grid-2" data-clearing>    
-  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (6).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (6).jpg"></a></li>
-  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (2).jpg"><img  data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (2).jpg"></a></li>
+  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (6).jpg"><img  data-caption=" " class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (6).jpg"></a></li>
+  <li><a href="{{ site.url }}/images/wat-nantharam/wat-nantharam (2).jpg"><img  data-caption="这座寺院和其它寺院不同，门口和Ubosot前的守护既不是那迦，也不是狮子，而是白象。不知道有什么背景。" class="th" src="{{ site.url }}/images/wat-nantharam/wat-nantharam (2).jpg"></a></li>
 </ul>
 
 
@@ -43,7 +43,4 @@ image:
 
 
 
- [1]: http://foundation.zurb.com/docs/components/clearing.html
- [2]: http://foundation.zurb.com/docs/components/block_grid.html
- [3]: {{ site.url }}/design/page/
- [4]: {{ site.url }}/design/page-fullwidth/
+
