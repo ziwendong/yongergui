@@ -283,7 +283,7 @@ mark {
     text-transform: uppercase;
 }
 .teaser {
-    font-size: rem-calc(20);
+    font-size: rem-calc(40);
 }
 .big-teaser {
     font-style: italic; font-weight: 300;
@@ -295,12 +295,12 @@ mark {
 /* Smaller Fontsize for Bigteaser on small devices */
 @media only screen {
     .big-teaser {
-        font-size: rem-calc(20);
+        font-size: rem-calc(40);
     }
 }
 @media only screen and (min-width: 40.063em) {
     .big-teaser         {
-        font-size: rem-calc(29);
+        font-size: rem-calc(50);
     }
 }
 
