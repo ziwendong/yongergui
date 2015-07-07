@@ -7,4 +7,4 @@ header:
    image_fullwidth: "chiangmai-discover.jpg"
 permalink: "/chiangmai-discover/"
 ---
-{% include list-posts.html tag='清迈拾遗' %}
+{% include list-posts.html tag='Chiangmai' %}
