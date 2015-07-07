@@ -21,11 +21,11 @@
   side: left
   dropdown:
   - title: "读书"
-    url: "/design/header-full-width-image/"
+    url: "/reading/"
   - title: "电影"
     url: "/movie/"
   - title: "音乐"
-    url: "/design/header-image-color/"
+    url: "/music/"
   
 
 - title: "秉·烛"
