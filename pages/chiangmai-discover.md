@@ -7,8 +7,4 @@ header:
    image_fullwidth: "chiangmai-discover.jpg"
 permalink: "/chiangmai-discover/"
 ---
-<ul>
-    {% for post in site.tag.Chiangmai %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+{% include list-posts.html tag='清迈拾遗' %}
