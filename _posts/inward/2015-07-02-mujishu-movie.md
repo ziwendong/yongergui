@@ -7,8 +7,6 @@ categories:
     - inward
 tags:
     - 电影
-    - background color
-    - header
 header: no
 image:
     title: mujishu.jpg
