@@ -6,7 +6,7 @@ teaser: "整理一下东南亚地区的常见植物 可惜临走前一个月才�
 categories:
     - outward
 tags:
-    - 旅行 相册
+    - 旅行 相册 Chiangmai
 image:
    thumb: flora-southasia/flora-southasia-s.jpg
    homepage: flora-southasia/flora-southasia-l.jpg
