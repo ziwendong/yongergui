@@ -27,6 +27,6 @@ image:
 
 我不敢确定。但我愿相信如此。
 
-## 更多影评
+<strong>更多书评</strong>
 {: .t60 }
 {% include list-posts.html tag='电影' %}
