@@ -7,7 +7,7 @@
 layout: frontpage
 title: "咏而归 – 浴乎沂，风乎舞雩"
 header:
-   image_fullwidth: "Chumphon sunrise 2.jpg"
+   image_fullwidth: "mountains header.jpg"
 widget-1:
     title: ""
     url: 'http://ziwendong.github.io/yongergui/blog/'
