@@ -11,16 +11,16 @@ header:
 widget-1:
     title: "抵达·清迈拾遗"
     url: 'http://ziwendong.github.io/yongergui/chiangmai-discover/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+    text: '2014年底到2015年初，前后两次去泰国，时间加起来有半年之久。落脚之处是在清迈，因此有幸更深入的了解这座古城，感受它的沧桑之美。在绕开浮躁的消遣后，它宁静虔诚的一面常让我惊叹，这是一座充满故事的城市，只是你要把心静下来，才能聆听到它在诉说什么。'
     image: news1-302x182.jpg
 widget-2:
     title: "抵达·群山圣殿"
     url: 'http://ziwendong.github.io/yongergui/mountains/'
-    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
+    text: '2014年8月，我终于由成都出发，前往梦想已久的四姑娘山。随后一路向南，几乎始终穿行于崇山峻岭之中。这是我走过的最漫长的一段旅程，却仍未把山景看够。或许是因为内心一直渴望飞翔，因此群山之巅才始终是最让我沉醉的所在。'
     image: news2-302x182.jpg
 widget-3:
     title: "沉潜·读书"
     url: 'http://ziwendong.github.io/yongergui/reading/'
-    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+    text: '如果不在行万里路的途中，就去读书吧'
     image: news3-302x182.jpg
 ---
