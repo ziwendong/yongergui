@@ -4,9 +4,9 @@
   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://www.douban.com/people/gaobiedeying/
+  url: http://twitter.com/phlow
   class: icon-twitter
-  title: "豆瓣"
+  title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
 - name: Facebook
   url: http://www.facebook.com/phlow.media
@@ -19,7 +19,7 @@
   title: "Sounds und Downloads und mehr"
 
 - name: GitHub
-  url: https://github.com/ziwendong/yongergui
+  url: http://github.com/phlow
   class: icon-github
   title: Code und mehr...
 
@@ -34,9 +34,9 @@
   title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
 
 - name: Mixcloud
-  url: http://yun.baidu.com/share/home?uk=788779025
+  url: http://www.mixcloud.com/phlow/
   class: icon-cloud
-  title: "百度云"
+  title: "Mixe, was sonst?"
 
 # - name: Xing
 #   url: https://www.xing.com/profile/Moritzmo_Sauer
