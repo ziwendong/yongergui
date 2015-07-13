@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: "博文目录"
-  url: "/blog/"
+- title: "关于本站"
+  url: "/info/"
   side: left
 
 - title: "抵·达"
@@ -39,19 +39,19 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
+- title: "博文目录"
   url: "/blog/"
   side: left
   dropdown:
-  - title: Blog
+  - title: "图文导航"
     url: "/blog/"
-  - title: "Blog Archive"
+  - title: "博文存档"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "搜索"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "与我联系"
   url: "/contact/"
   side: right
