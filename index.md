@@ -21,6 +21,6 @@ widget-2:
 widget-3:
     title: "沉·潜"
     url: 'http://ziwendong.github.io/yongergui/inward/archive/'
-    text: '如果不在行万里路的途中，就去探索内在的世界吧。'
+    text: '如果不在行万里路的途中，就去探索内在的世界吧。点击这里，查看关于书、电影以及音乐的一些评论。'
     image: news3-302x182.jpg
 ---
