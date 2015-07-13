@@ -34,4 +34,6 @@ header:
 
 - 豆瓣[子文东](http://www.douban.com/people/gaobiedeying/)
 
-- 微博[书与远方](http://www.weibo.com/u/5651819315)
+- 微博[书与远方](http://weibo.com/shuyuyuanfang)
+
+- E-mail(QQ): 375583428@qq.com 

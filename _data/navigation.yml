@@ -32,12 +32,11 @@
   url: "/documentation/"
   side: left
   dropdown:
-  - title: Documentation
-    url: "/documentation/"
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "浮生"
+    url: "/life/"
+  - title: "收藏"
+    url: "/collection/"
+  
 
 - title: "博文目录"
   url: "/blog/"

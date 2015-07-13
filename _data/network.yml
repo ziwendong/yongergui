@@ -1,24 +1,8 @@
-- menu_name: "Feeling Responsive"
+- menu_name: "版权声明"
 
-- name: "主题模板原作者列表"
-
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
-
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
-
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
-  class: "rss-link"
-  title: "Images by Unsplash"
-
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
-  class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+- name: 如无特别声明，本站发布的内容及配图皆为
+- name: 「书与远方」的管理员子文东原创，版权及
+- name: 其他合法权利归作者所有。任何媒体或网站
+- name: 未经本站许可，不得转帖或以其它方式复制
+- name: 发表。寻求授权请参考「与我联系」。
 
