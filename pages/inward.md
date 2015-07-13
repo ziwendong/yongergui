@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "沉·潜"
-subheadline: "Layouts of Feeling Responsive"
+subheadline: "如果不在行万里路的途中，就去探索内在的世界吧。"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/inward/"

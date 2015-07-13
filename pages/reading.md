@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "读书"
-subheadline: "Layouts of Feeling Responsive"
+subheadline: "沉·潜"
 header:
    image_fullwidth: "reading header.jpg"
 permalink: "/reading/"

@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "抵·达"
-subheadline: "Layouts of Feeling Responsive"
+subheadline: "世界这么大，记得去发现。"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/outward/"

@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "群山圣殿"
-subheadline: "Layouts of Feeling Responsive"
+subheadline: "抵·达"
 header:
    image_fullwidth: "mountains header 2.jpg"
 permalink: "/mountains/"

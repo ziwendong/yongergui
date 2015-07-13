@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "电影"
-subheadline: "Layouts of Feeling Responsive"
+subheadline: "沉·潜"
 header:
    image_fullwidth: "movie header.jpg"
 permalink: "/movie/"
