@@ -1,51 +1,37 @@
 ---
-layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
+layout: page-fullwidth
+title: "关于我"
+subheadline: "导航"
 show_meta: false
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+teaser: "眺望内在世界的风景，阅读我们脚下的路......"
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "about me.jpg"
 ---
-...and learn at the same time.
-
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
 
 
-## Features
+感谢您访问「咏而归」。这里是子文东和朋友们交流的一个小平台，我会尽量每周给大家推送一篇书评或游记，把这些年来读到过的好书和有趣的旅行经历与诸位分享。
 
-* Responsive Gallery, Videos, Grid, Typography,...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
+<h4><strong>订阅更新，欢迎关注「书与远方」公众号</strong></h4>
 
+<hr>
+
+<strong>订阅方法：查询ID:shuyuyuanfang，或者扫描下方二维码。</strong>
+
+<img src="{{ site.url}}/images/shuyuyuanfang.jpg" alt="二维码">
+
+或者点击<p><a href="http://mp.weixin.qq.com/s?__biz=MzAxODMzNjE1Nw==&mid=210505120&idx=1&sn=a624436b6a5195f2082084e31118a76c#rd">订阅导航</a></p>
 
 
-## I got inspired by...
-
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
+查询「书与远方」公众号已有内容，可在关注后，回复“内容导航”，或者点击下方的“阅读原文”，直接访问导航信息。
 
 
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: #
- [9]: #
- [10]: #
+
+
+<h4><strong>更多内容，欢迎访问</strong></h4>
+
+<hr>
+
+- 豆瓣[子文东](http://www.douban.com/people/gaobiedeying/)
+
+- 微博[书与远方](http://www.weibo.com/u/5651819315)
