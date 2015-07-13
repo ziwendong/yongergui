@@ -19,8 +19,8 @@ widget-2:
     text: '2014年8月，我终于由成都出发，前往梦想已久的四姑娘山。随后一路向南，几乎始终穿行于崇山峻岭之中。这是我走过的最漫长的一段旅程，却仍未把山景看够。或许是因为内心一直渴望飞翔，因此群山之巅才始终是最让我沉醉的所在。'
     image: news2-302x182.jpg
 widget-3:
-    title: "沉潜·读书"
-    url: 'http://ziwendong.github.io/yongergui/reading/'
-    text: '如果不在行万里路的途中，就去读书吧'
+    title: "沉·潜"
+    url: 'http://ziwendong.github.io/yongergui/inward/archive/'
+    text: '如果不在行万里路的途中，就去探索内在的世界吧。'
     image: news3-302x182.jpg
 ---
