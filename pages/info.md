@@ -20,7 +20,7 @@ header:
 
 <img src="{{ site.url}}/images/shuyuyuanfang.jpg" alt="二维码">
 
-或者点击<p><a href="http://mp.weixin.qq.com/s?__biz=MzAxODMzNjE1Nw==&mid=210505120&idx=1&sn=a624436b6a5195f2082084e31118a76c#rd">订阅导航</a></p>
+或者点击<a href="http://mp.weixin.qq.com/s?__biz=MzAxODMzNjE1Nw==&mid=210505120&idx=1&sn=a624436b6a5195f2082084e31118a76c#rd">订阅导航</a>
 
 
 查询「书与远方」公众号已有内容，可在关注后，回复“内容导航”，或者点击下方的“阅读原文”，直接访问导航信息。
