@@ -11,6 +11,19 @@ noindex: true
 
 
 	<div class="medium-4 columns t30">
-		{% include sidebar.html %}
+		<div class="show-for-large-up">
+        <div class="panel radius 2" markdown="1">
+        「抵·达」
+
+        {% include list-posts.html category='outward' %}
+
+        </div>
+        <div class="panel radius 2" markdown="1">
+        「沉·潜」
+
+        {% include list-posts.html category='inward' %}
+
+        </div>
+		
 	</div><!-- /.medium-5.columns -->
 </div><!-- /.row -->
