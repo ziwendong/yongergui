@@ -9,12 +9,12 @@ tags:
     - 音乐
 header: no
 image:
-    thumb:  baliwakes/baliwakes (2).jpg
+    thumb:  baliwakes/baliwakes-s.jpg
     caption: 试听地址
     caption_url: http://music.163.com/#/album?id=36570
 ---
 
-<img src="{{ site.url}}/baliwakes/baliwakes (3).jpg" alt="BaLiwakes">
+<img src="{{ site.url}}/images/baliwakes/baliwakes (3).jpg" alt="BaLiwakes">
 <p><a href="http://music.douban.com/subject/6892590/">专辑豆瓣地址</a></p>
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=369202&auto=1&height=66"></iframe>
@@ -33,14 +33,16 @@ image:
 
 这首歌的创作者陆森宝，族名是巴利瓦克斯，意为“旋风”。但他还有另一个名字——“森保一郎”。1910年，他出生于台湾卑南族的南王部落，当时台湾正处于日本的统治之下，基于当时日本的民族政策，学校的教育皆以日语进行，因此和当时的很多人一样，日语成为了巴利瓦克斯的第二语言，“森保一郎”也成为了他公开的名字。
 
-<img src="{{ site.url}}/baliwakes/baliwakes (5).jpg" alt="森保一郎的结婚照">
+<img src="{{ site.url}}/images/baliwakes/baliwakes (5).jpg" alt="森保一郎的结婚照">
+
 ~~~
 森保一郎的结婚照
 ~~~
 
 少年时期的森保一郎非常聪明勤奋，以优异的成绩考入台南师范学校，成为了那里第一位原住民学生。从那时开始，他的音乐天赋逐渐得以表现，在刚刚接触钢琴一年后，就夺得了全校钢琴比赛冠军，甚至还曾作为全台湾中学生的代表，演奏钢琴迎接天皇弟弟的访问。毕业后，他回到了台东，以教书为业，主要负责自己所擅长的音乐和体育课程。
 
-<img src="{{ site.url}}/baliwakes/baliwakes (1).jpg" alt="陆森宝与夫人">
+<img src="{{ site.url}}/images/baliwakes/baliwakes (1).jpg" alt="陆森宝与夫人">
+
 ~~~
 陆森宝与夫人
 ~~~
@@ -57,7 +59,7 @@ image:
 
 之前在藏区旅行时，也曾经许多次被藏族的民歌震撼，他们还曾给我放过一位歌手的MV，歌中他也唱到漂泊在异乡的无助和对家乡的思念，词写得非常美，可是为什么在我们的主流媒体上听到的却总是“列车开到我家乡”？修高铁是好事，可是能不能自由自在的讲点儿别的，讲讲属于自己民族的心声和记忆，给人们更多彼此倾诉和理解的机会？如果能够自由的表达感受，哪怕是迷茫、悲愤，那些内心的淤积是否也不至于一触即爆。许多争执，起初都不过是为了获得更多的尊重和认同，原本是可以通过文化上的自由表达实现的，一些人却因为太害怕人们表达的自由，宁肯选择武力。结果许多明明渴望善待彼此的人们，却是他们被卷到了冲突的最前线。
 
-<img src="{{ site.url}}/baliwakes/baliwakes (4).jpg" alt="陆森宝传记封面">
+<img src="{{ site.url}}/images/baliwakes/baliwakes (4).jpg" alt="陆森宝传记封面">
 <p><a href="http://book.douban.com/subject/25782478/">豆瓣地址</a></p>
 
 播放器中这首《美丽的稻穗》，是由陆森宝的外孙陈建年演唱的，虽然胡德夫的版本也很动听，但还是觉得陈建年的唱法和作为背景的合唱使整首歌更质朴，也更有原住民的韵味。如果有兴趣了解更多，可以去听一下纪念陆森宝的一张专辑《BaLiwakes》，专辑介绍参见[豆瓣地址](http://music.douban.com/subject/6892590/)，以及网易云音乐的[试听地址](http://music.163.com/#/album?id=36570) 。这张专辑收录了陆森宝生前创作的最具代表性的作品，每首都很动听，而且通过这些歌，也可以勾勒出陆森宝作为一名原住民音乐家与基督徒的一生。我并非基督徒，但里面那首《耶稣基督》真的太美了，最美好的事物总是在涉及到内心深处的信仰时创造的。
