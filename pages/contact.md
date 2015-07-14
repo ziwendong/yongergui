@@ -8,7 +8,7 @@ teaser: " "
 permalink: "/contact/"
 ---
 
-<h4><strong>欢迎通过「书与远方」公众号，直接与我留言联系</strong></h4>
+<h4>欢迎通过「书与远方」公众号，直接与我留言联系</h4>
 
 <hr>
 
@@ -20,7 +20,7 @@ permalink: "/contact/"
 
 
 
-<h4><strong>其他交流平台，欢迎访问</strong></h4>
+<h4>其他交流平台，欢迎访问</h4>
 
 <hr>
 
