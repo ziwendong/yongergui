@@ -17,8 +17,8 @@ image:
 <img src="{{ site.url}}/images/baliwakes/baliwakes (3).jpg" alt="BaLiwakes">
 <p><a href="http://music.douban.com/subject/6892590/">专辑豆瓣地址</a></p>
 
-<div class="flex-video">
-	    <iframe width="1280" height="50" src="http://music.163.com/outchain/player?type=2&id=369202&auto=1&height=66" frameborder="0" allowfullscreen></iframe>
+<div>
+	<iframe width="500" height="200" src="http://music.163.com/outchain/player?type=2&id=369202&auto=1&height=66" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <p><a href="http://music.163.com/#/album?id=36570">完整专辑试听地址</a></p>
