@@ -15,6 +15,7 @@ image:
 ---
 
 <img src="{{ site.url}}/images/baliwakes/baliwakes-3.jpg" alt="BaLiwakes">
+
 <p><a href="http://music.douban.com/subject/6892590/">专辑豆瓣地址</a></p>
 
 <div>
@@ -34,7 +35,7 @@ image:
 
 这首歌的创作者陆森宝，族名是巴利瓦克斯，意为“旋风”。但他还有另一个名字:“森保一郎”。1910年，他出生于台湾卑南族的南王部落，当时台湾正处于日本的统治之下，基于当时日本的民族政策，学校的教育皆以日语进行，因此和当时的很多人一样，日语成为了巴利瓦克斯的第二语言，“森保一郎”也成为了他公开的名字。
 
-<img src="{{ site.url}}/images/baliwakes/baliwakes-5.jpg" alt="森保一郎的结婚照">
+<img src="{{ site.url}}/images/baliwakes/baliwakes.jpg" alt="森保一郎的结婚照">
 
 ~~~
 森保一郎的结婚照
