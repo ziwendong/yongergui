@@ -17,7 +17,10 @@ image:
 <img src="{{ site.url}}/images/baliwakes/baliwakes (3).jpg" alt="BaLiwakes">
 <p><a href="http://music.douban.com/subject/6892590/">专辑豆瓣地址</a></p>
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=369202&auto=1&height=66"></iframe>
+<div class="flex-video">
+        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=369202&auto=1&height=66"></iframe>
+</div>
+
 <p><a href="http://music.163.com/#/album?id=36570">完整专辑试听地址</a></p>
 
 最近在看马世芳主持的《听说》，一档关于台湾音乐的节目。但与其说主题是音乐，不如说是创作音乐的人，以及他们所见证的时代变迁。前三集都很精彩，但最震撼的是昨天刚看完的第四集《美丽的稻穗》。不同于第一集中人人都听过的那首《橄榄树》，《美丽的稻穗》并非流行音乐，再加上以卑南族语演唱，以至影响了它的传播，所以在大陆知名度并不高。但机缘巧合，2011年时因为电影《赛德克巴莱》，我曾有一个阶段对台湾原住民音乐很感兴趣，在找来听的民歌中，《美丽的稻穗》就因为优美的旋律让我记忆犹新。
