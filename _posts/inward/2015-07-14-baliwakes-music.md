@@ -18,7 +18,7 @@ image:
 <p><a href="http://music.douban.com/subject/6892590/">专辑豆瓣地址</a></p>
 
 <div class="flex-video">
-	    <iframe width="1280" height="720" src="http://music.163.com/outchain/player?type=2&id=369202&auto=1&height=66" frameborder="0" allowfullscreen></iframe>
+	    <iframe width="1280" height="50" src="http://music.163.com/outchain/player?type=2&id=369202&auto=1&height=66" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <p><a href="http://music.163.com/#/album?id=36570">完整专辑试听地址</a></p>
@@ -69,7 +69,9 @@ image:
 
 播放器中这首《美丽的稻穗》，是由陆森宝的外孙陈建年演唱的，虽然胡德夫的版本也很动听，但还是觉得陈建年的唱法和作为背景的合唱使整首歌更质朴，也更有原住民的韵味。如果有兴趣了解更多，可以去听一下纪念陆森宝的一张专辑《BaLiwakes》，专辑介绍参见[豆瓣地址](http://music.douban.com/subject/6892590/)，以及网易云音乐的[试听地址](http://music.163.com/#/album?id=36570) 。这张专辑收录了陆森宝生前创作的最具代表性的作品，每首都很动听，而且通过这些歌，也可以勾勒出陆森宝作为一名原住民音乐家与基督徒的一生。我并非基督徒，但里面那首《耶稣基督》真的太美了，最美好的事物总是在涉及到内心深处的信仰时创造的。
 
-最后吐个槽，优酷网《听说》第四集的标题竟然是“台湾神曲折服日本皇族” ———— 编辑您还能更恶心一点吗？！
+最后吐个槽，优酷网《听说》第四集的标题竟然是“台湾神曲折服日本皇族” 
+
+编辑您还能更恶心一点吗？！
 
 <strong>更多音乐</strong>
 {: .t60 }
