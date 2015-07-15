@@ -15,7 +15,7 @@ image:
     caption_url: http://music.163.com/#/album?id=36570
 ---
 
-<img src="{{ site.url}}/images/baliwakes/baliwakes-2.jpg" alt="BaLiwakes">
+<img src="{{ site.url}}/images/baliwakes/baliwakes-l.jpg" alt="BaLiwakes">
 
 <p><a href="http://music.douban.com/subject/6892590/">专辑豆瓣地址</a></p>
 
@@ -82,7 +82,7 @@ image:
 
 最后吐个槽，优酷网《听说》第四集的标题竟然是“台湾曲神折服日本皇族” 
 
-编辑您还能更恶心一点吗？！
+我真的跟这位编辑看的是同一个节目吗？ -_-
 
 <strong>更多音乐</strong>
 {: .t60 }
