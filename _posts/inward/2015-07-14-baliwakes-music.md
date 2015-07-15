@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "音乐"
 title:  "美丽的稻穗 —— BaLiwakes的乡愁"
-teaser: "我站在故乡的土地上啊，可是为何仍然如此思念故乡？"
+teaser: "我站在故乡的土地上啊，可是为何仍然如此思念故乡？—— 1910年，陆森宝出生于台湾卑南族的南王部落，族名是巴利瓦克斯（Bliwakes)，意为“旋风”。但他还有另一个名字:“森保一郎”。"
 categories:
     - inward
 tags:
