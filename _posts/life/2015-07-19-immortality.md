@@ -15,7 +15,7 @@ image:
     caption_url: 
 ---
 
-<img src="{{ site.url}}/images/mmortality/immortality.jpg" alt="等待日落的白发老人">
+<img src="{{ site.url}}/images/immortality/immortality.jpg" alt="等待日落的白发老人">
 
 ~~~
 浦西山顶等待日落的白发老人
