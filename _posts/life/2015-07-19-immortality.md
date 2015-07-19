@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "浮生"
 title:  "重构与永生"
-teaser: ""不要温和地走进那个良夜 / 白昼将尽，暮年仍应燃烧咆哮 / 怒斥吧，怒斥光明的消逝。"——狄兰 · 托马斯"
+teaser: "不要温和地走进那个良夜 / 白昼将尽，暮年仍应燃烧咆哮 / 怒斥吧，怒斥光明的消逝。——狄兰 · 托马斯"
 categories:
     - life
 tags:
@@ -10,6 +10,7 @@ tags:
 header: no
 image:
     thumb:  immortality/immortality-s.jpg
+    homepage: immortality/immortality-l.jpg
     caption: 等待日落的白发老人
     caption_url: 
 ---
