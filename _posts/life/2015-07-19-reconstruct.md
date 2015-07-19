@@ -21,37 +21,38 @@ image:
 浦西山顶等待日落的白发老人
 ~~~
 
-光辉曾经那么耀眼
+    光辉曾经那么耀眼
 
-现在却从我的视线中消逝
+    现在却从我的视线中消逝
 
-纵使再也唤不回
+    纵使再也唤不回
 
-那绿茵葱郁、花朵绚丽的一刻
+    那绿茵葱郁、花朵绚丽的一刻
 
-我们不会悲伤，而是从残留中
+    我们不会悲伤，而是从残留中
 
-寻找一种力量
+    寻找一种力量
 
                       —— 华兹华斯
 
-（颂歌：《永生的颂诗》，第十节）
+    （颂歌：《永生的颂诗》，第十节）
 
-What though the radience which was once so bright
+    What though the radience which was once so bright
 
-Be now for ever taken from my sight,
+    Be now for ever taken from my sight,
 
-      Though nothing can bring back the hour
+          Though nothing can bring back the hour
 
-Of splendour in the grass, of glory in the flower;
+    Of splendour in the grass, of glory in the flower;
 
-      We will grieve not, rather find
+          We will grieve not, rather find
 
-      Strength in what remains behind            
+          Strength in what remains behind            
  
                       —— William Wordsworth 
 
-( Intimations of reconstruct, X )
+    ( Intimations of reconstruct, X )
+    
 
 翻看大学时代的一个本子，记满了当年的书摘，其中第一段摘抄就是上面的内容。再次重读，想起了这张拍于琅勃拉邦的照片。当时是在浦西山顶等日落，余晖正好照亮了一位老人的白发，我忍不住拍下他的背影。后来虽然拍了许多落日的照片，回头再看却还是最喜欢这一张。
 
