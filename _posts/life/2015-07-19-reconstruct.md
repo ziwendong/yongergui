@@ -9,13 +9,13 @@ tags:
     - 浮生
 header: no
 image:
-    thumb:  immortality/immortality-s.jpg
-    homepage: immortality/immortality-l.jpg
+    thumb:  reconstruct/reconstruct-s.jpg
+    homepage: reconstruct/reconstruct-l.jpg
     caption: 等待日落的白发老人
     caption_url: 
 ---
 
-<img src="{{ site.url}}/images/immortality/immortality.jpg" alt="等待日落的白发老人">
+<img src="{{ site.url}}/images/reconstruct/reconstruct.jpg" alt="等待日落的白发老人">
 
 ~~~
 浦西山顶等待日落的白发老人
@@ -51,7 +51,7 @@ Of splendour in the grass, of glory in the flower;
  
                       —— William Wordsworth 
 
-( Intimations of Immortality, X )
+( Intimations of reconstruct, X )
 
 翻看大学时代的一个本子，记满了当年的书摘，其中第一段摘抄就是上面的内容。再次重读，想起了这张拍于琅勃拉邦的照片。当时是在浦西山顶等日落，余晖正好照亮了一位老人的白发，我忍不住拍下他的背影。后来虽然拍了许多落日的照片，回头再看却还是最喜欢这一张。
 
