@@ -17,10 +17,6 @@ image:
 
 <img src="{{ site.url}}/images/reconstruct/reconstruct.jpg" alt="等待日落的白发老人">
 
-<div>
-  <embed src="http://www.xiami.com/widget/39977537_2103432/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
-</div>  
-
 ~~~
     光辉曾经那么耀眼
 
@@ -75,6 +71,14 @@ image:
 以前是凭直觉隐约有这样的意识，如今才算是终于想清楚了原因。那么去哪里旅行，甚至去不去旅行，都是一些表面问题而已。
 
 真正重要的，是让改变发生，去做那些触动自己情绪的事，哪怕不都是快乐，去体验那些新鲜的经历，哪怕不一定轻松。狄兰 · 托马斯说，“不要温和地走进那个良夜 / 白昼将尽，暮年仍应燃烧咆哮 / 怒斥吧，怒斥光明的消逝。” 他比华兹华斯激烈，但意思是一样的：与其惋惜失去的敏感，不如尽力寻找机会，让自己被这个世界再次触动。所谓的不朽并非凝滞，而是生生不息的重构，只要不失去改变的勇气，就会有永不消逝的青春。
+
+推荐一首歌吧，KT Tunstall的《Golden Age》
+
+<div>
+  <embed src="http://www.xiami.com/widget/39977537_2103432/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+</div>  
+
+<hr>
 
 注：
 
