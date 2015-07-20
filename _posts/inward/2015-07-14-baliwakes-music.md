@@ -20,7 +20,7 @@ image:
 <p><a href="http://music.douban.com/subject/6892590/">专辑豆瓣地址</a></p>
 
 <div>
-	<iframe width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=369202&auto=0&height=66" frameborder="0" allowfullscreen></iframe>
+	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=369202&auto=0&height=66"></iframe>
 </div>
 
 
