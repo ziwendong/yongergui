@@ -21,6 +21,10 @@ image:
 浦西山顶等待日落的白发老人
 ~~~
 
+<div>
+  <embed src="http://www.xiami.com/widget/39977537_2103432/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+</div>  
+
     光辉曾经那么耀眼
 
     现在却从我的视线中消逝
