@@ -63,7 +63,8 @@ header: no
 </ul> 
 
 ~~~
-阿妹注：那扇裂了缝的窗户瞬间给严肃的书房注入了一丝调皮的气息，简直是神来之笔。
+阿妹注：那扇裂了缝的窗户瞬间给严肃的书房
+注入了一丝调皮的气息，简直是神来之笔。
 ~~~
 
 洱海废旧的船木和苍山的朽木经过陈老师的手则变成了独特的床榻，茶几，衣架和楼梯手扶。
@@ -91,7 +92,7 @@ header: no
 
 从室内回到院子里，我们才知道原来地下还藏着一个小酒窖~ 仍然是石头和磨盘砌的台阶，大概有两米深，而即使是这么小的空间，也可以物尽其用，墙壁上的酒架，其实是旧板凳倒过来做成的，而壁面的一些凹陷，也可以是摆放酒坛的空间。
 
-<ul class="clearing-thumbs small-block-grid-4" data-clearing> 
+<ul class="clearing-thumbs small-block-grid-2" data-clearing> 
   <li><a href="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (14).jpg"><img  data-caption=" " class="th" src="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (14).jpg"></a></li>
   <li><a href="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (12).jpg"><img  data-caption=" " class="th" src="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (12).jpg"></a></li>
   <li><a href="{{ site.url }}/images/dali-lifedesign/dali-lifedesign (31).jpg"><img  data-caption=" " class="th" src="{{ site.url }}/images/dali-lifedesign/dali-lifedesign (31).jpg"></a></li>
