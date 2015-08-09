@@ -30,9 +30,12 @@ header: no
 <img src="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (17).jpg" >
 
 
+
 其实发现陈老师家和当初遇到阿妹一样，也是意外的惊喜。当时我们正在大理学院附近漫游，走过苍山下舒适的民族村时，一户人家独特的阁楼设计让我们俩简直舍不得离开。不同于常见的玻璃棚或凉亭式样，这家人竟然在顶层建了一栋木石混合的小屋，既有古典建筑的韵味，又带着些随性所致的野趣，配上蓬勃生长在墙侧的爬山虎和紫薇花，明媚的阳光下张扬得有点儿梦幻。
 
-<img src="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (35).jpg" >
+<ul class="clearing-thumbs small-block-grid-2" data-clearing> 
+  <img src="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (35).jpg" >
+</ul>
 
 很幸运，我们走近门口的时候，“顽童”陈老师和他的老伴刚好在家。在院里打扫卫生的阿姨看出了我们对这里的觊觎，于是把我们唤到院里，又叫来热情的陈老师，把他们的家向我们敞开，让我们看到了更难忘的室内设计。其实如果不是亲眼所见，很难想象一个非艺术专业的人会有那么好的审美直觉，整个家到处是充满情感和巧思的设计，而且几乎全部是陈老师自己构思，又自己制作完成的。
 
@@ -69,7 +72,7 @@ header: no
 
 洱海废旧的船木和苍山的朽木经过陈老师的手则变成了独特的床榻，茶几，衣架和楼梯手扶。
 
-<ul class="clearing-thumbs small-block-grid-2" data-clearing> 
+<ul class="clearing-thumbs small-block-grid-3" data-clearing> 
   <li><a href="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (6).jpg"><img  data-caption=" " class="th" src="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (6).jpg"></a></li>
   <li><a href="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (20).jpg"><img  data-caption=" " class="th" src="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (20).jpg"></a></li>
   <li><a href="{{ site.url }}/images/dali-lifedesign/dali-lifedesign (2).jpg"><img  data-caption=" " class="th" src="{{ site.url }}/images/dali-lifedesign/dali-lifedesign (2).jpg"></a></li>
@@ -92,7 +95,7 @@ header: no
 
 从室内回到院子里，我们才知道原来地下还藏着一个小酒窖~ 仍然是石头和磨盘砌的台阶，大概有两米深，而即使是这么小的空间，也可以物尽其用，墙壁上的酒架，其实是旧板凳倒过来做成的，而壁面的一些凹陷，也可以是摆放酒坛的空间。
 
-<ul class="clearing-thumbs small-block-grid-2" data-clearing> 
+<ul class="clearing-thumbs small-block-grid-3" data-clearing> 
   <li><a href="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (14).jpg"><img  data-caption=" " class="th" src="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (14).jpg"></a></li>
   <li><a href="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (12).jpg"><img  data-caption=" " class="th" src="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (12).jpg"></a></li>
   <li><a href="{{ site.url }}/images/dali-lifedesign/dali-lifedesign (31).jpg"><img  data-caption=" " class="th" src="{{ site.url }}/images/dali-lifedesign/dali-lifedesign (31).jpg"></a></li>
@@ -102,9 +105,10 @@ header: no
 
 不过最值得感慨的是这对老夫妻间的默契，虽然只是短暂相处，但可以明显感到他们是多么幸福的一对，阿姨很温柔勤劳，几乎一直在随手打扫卫生，所以房间虽然很大又有不少东西，却仍旧很整洁。而老先生的性格非常开朗好客，完全不介意陌生人的到访，跑上跑下，把所有的房间都敞开门带我们参观，带着孩子般纯真的笑容，毫无保留的和我们分享自己的创意。所以哪怕只是看到他们的神情，也会明白他们拥有这么惬意的家是必然的，因为很显然他们有能力主动的发现和创造幸福，也懂得如何打理和珍惜。
 
-<img src="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (13).jpg" >
-
-<img src="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (30).jpg" >
+<ul class="clearing-thumbs small-block-grid-2" data-clearing> 
+  <img src="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (13).jpg" >
+  <img src="{{ site.url}}/images/dali-lifedesign/dali-lifedesign (30).jpg" >
+</ul> 
 
 陈老师和老伴的卧室，窗前是隔着小几对坐的沙发，都是老家具了，简单组合起来却非常温馨，落地窗外就是自家精心制作的院子和洱海。
 “共剪西窗烛”也就是这样的情景吧。
