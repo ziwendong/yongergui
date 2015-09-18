@@ -32,6 +32,8 @@ header:
 
 <hr>
 
+- 博客「咏而归」[RSS](http://ziwendong.com/feed.xml )
+
 - 豆瓣[子文东](http://www.douban.com/people/gaobiedeying/)
 
 - 微博[书与远方](http://weibo.com/shuyuyuanfang)
