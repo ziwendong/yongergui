@@ -2,9 +2,14 @@
   url: "/"
   side: left
 
-- title: "关于本站"
-  url: "/info/"
+- title: "博文目录"
+  url: "/blog/"
   side: left
+  dropdown:
+  - title: "图文导航"
+    url: "/blog/"
+  - title: "博文存档"
+    url: "/blog/archive/"
 
 - title: "旅行"
   url: "/outward/archive"
@@ -38,17 +43,14 @@
     url: "/random/"
   
 
-- title: "博文目录"
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "图文导航"
-    url: "/blog/"
-  - title: "博文存档"
-    url: "/blog/archive/"
+
 
 - title: "搜索"
   url: "/search/"
+  side: right
+
+- title: "关于本站"
+  url: "/info/"
   side: right
 
 - title: "与我联系"
