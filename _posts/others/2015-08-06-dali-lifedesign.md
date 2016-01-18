@@ -9,7 +9,7 @@ image:
     caption: Image by ziwendong
     caption_url: "http://www.douban.com/people/gaobiedeying/"
 categories:
-    - life
+    - others
 tags:
     - 浮生
     - Dali
