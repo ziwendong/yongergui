@@ -1,12 +1,12 @@
 ---
 layout: page
-subheadline:  "琐思"
+subheadline:  "片段"
 title:  "梭罗竟然写过这样一篇日记……"
 teaser: "……我真想念你，我的朋友，但我并不信任你。"
 categories:
     - others
 tags:
-    - 琐思
+    - 杂谈
 header: no
 
 ---
@@ -27,4 +27,4 @@ header: no
 
 <strong>更多杂感随想</strong>
 {: .t60 }
-{% include list-posts.html tag='琐思' %}
+{% include list-posts.html tag='杂谈' %}

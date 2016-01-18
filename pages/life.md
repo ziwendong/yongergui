@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "浮生"
-subheadline: "秉·烛"
+subheadline: "琐思"
 header:
    image_fullwidth: "life header.jpg"
 permalink: "/life/"

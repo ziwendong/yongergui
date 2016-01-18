@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "秉·烛"
+title: "琐思"
 subheadline: "昼短而夜长，何不秉烛游。"
 header:
    image_fullwidth: "header_unsplash_5.jpg"

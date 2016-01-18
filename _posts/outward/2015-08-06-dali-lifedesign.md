@@ -9,9 +9,9 @@ image:
     caption: Image by ziwendong
     caption_url: "http://www.douban.com/people/gaobiedeying/"
 categories:
-    - others
+    - outward
 tags:
-    - 浮生
+    - 旅行
     - Dali
 header: no
 ---

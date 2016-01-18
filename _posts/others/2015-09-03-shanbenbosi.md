@@ -1,12 +1,12 @@
 ---
 layout: page
-subheadline:  "琐思"
+subheadline:  "秉烛游"
 title:  "70年，铺花的歧路"
 teaser: "孙文流亡日本前后十年，在日本酝酿出后来的辛亥革命，但，日本却与历经苦难后开花结果的新中国，发生了战争。历史为了成为历史，不得不等待那历史中人从此世消逝而去，历史明明是由当下所创造，但在历史漩涡中生存的我们，却被无数抉择的波涛席卷，溺没其中。 ——杉本博司"
 categories:
     - others
 tags:
-    - 琐思
+    - 杂谈
 header: no
 image:
     thumb:  shanbenbosi/shanbenbosi-s.jpg
@@ -59,4 +59,4 @@ image:
 
 <strong>更多杂感随想</strong>
 {: .t60 }
-{% include list-posts.html tag='琐思' %}
+{% include list-posts.html tag='杂谈' %}

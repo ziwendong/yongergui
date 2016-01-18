@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "抵·达"
+title: "旅行"
 subheadline: "世界这么大，记得去发现。"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
