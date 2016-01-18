@@ -34,8 +34,8 @@
   dropdown:
   - title: "浮生"
     url: "/life/"
-  - title: "收藏"
-    url: "/collection/"
+  - title: "琐思"
+    url: "/random/"
   
 
 - title: "博文目录"
