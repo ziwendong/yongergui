@@ -9,15 +9,15 @@ title: "咏而归 – 浴乎沂，风乎舞雩"
 header:
    image_fullwidth: "mountains header.jpg"
 widget-1:
-    title: "图文"
+    title: "博客"
     url: 'http://ziwendong.com/blog/'
-    text: '站内已发布内容导航，分类浏览请点击上部菜单栏。'
+    text: '站内已发布内容图文导航。'
     image: navigation-1.jpg
 
 widget-2:
     title: "影像"
     url: 'http://www.douban.com/people/gaobiedeying/photos'
-    text: '暂时没发现不需翻墙好用相册，先把豆瓣相册链接过来吧。'
+    text: '暂时没发现不需翻墙的好用相册，先把豆瓣相册链接过来吧。'
     image: navigation-1.jpg
 
 widget-3:
