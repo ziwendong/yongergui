@@ -6,7 +6,7 @@ show_meta: false
 teaser: "眺望内在世界的风景，阅读我们脚下的路......"
 permalink: "/info/"
 header:
-    image_fullwidth: "about me.jpg"
+    image_fullwidth: "mountains header.jpg"
 ---
 
 

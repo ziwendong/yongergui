@@ -9,18 +9,21 @@ title: "咏而归 – 浴乎沂，风乎舞雩"
 header:
    image_fullwidth: "mountains header.jpg"
 widget-1:
-    title: "旅行"
-    url: 'http://ziwendong.com/outward/archive/'
-    text: '世界这么大，记得去发现。'
+    title: "图文"
+    url: 'http://ziwendong.com/blog/'
+    text: '站内已发布内容导航，分类浏览请点击上部菜单栏。'
+    image: navigation-1.jpg
 
 widget-2:
-    title: "书影音"
-    url: 'http://ziwendong.com/inward/archive/'
-    text: '内在王国之旅'
+    title: "影像"
+    url: 'http://www.douban.com/people/gaobiedeying/photos'
+    text: '暂时没发现不需翻墙好用相册，先把豆瓣相册链接过来吧。'
+    image: navigation-1.jpg
 
 widget-3:
-    title: "琐思"
-    url: 'http://ziwendong.com/others/archive/'
-    text: '我们是否本该待在家中 / 无论家在何处？'
+    title: "公众号"
+    url: 'https://mp.weixin.qq.com/s?__biz=MzAxODMzNjE1Nw==&mid=210455186&idx=1&sn=c5dbe16c97251ec00b7c470ecd7c33dc&scene=1&srcid=0119L9oq4Wbsm6wPExT1TziY&pass_ticket=dQlfceA6Qoikv1xZAndfmektOLxyS8nMduzX%2BC%2B0lnaCBrUiv8Yfg4u%2Fw8t6OTmr#rd'
+    text: '眺望内在世界的风景，阅读我们脚下的路。欢迎订阅『书与远方』'
+    image: navigation-1.jpg
 
 ---
