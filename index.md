@@ -24,6 +24,6 @@ widget-3:
     title: "公众号"
     url: 'https://mp.weixin.qq.com/s?__biz=MzAxODMzNjE1Nw==&mid=210455186&idx=1&sn=c5dbe16c97251ec00b7c470ecd7c33dc&scene=1&srcid=0119L9oq4Wbsm6wPExT1TziY&pass_ticket=dQlfceA6Qoikv1xZAndfmektOLxyS8nMduzX%2BC%2B0lnaCBrUiv8Yfg4u%2Fw8t6OTmr#rd'
     text: '获取最新内容，欢迎订阅『书与远方』'
-    image: navigation-gongzhonghao.png
+    image: navigation-gongzhonghao2.png
 
 ---
